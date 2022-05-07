@@ -5,12 +5,56 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>git</title>
+      <link>https://example.com/post/git_post/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git_post/</guid>
+      <description>&lt;p&gt;##Version control
+Version Control Systems (VCS) are used when several people work on one project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, roll back to any earlier version of the project, if required.&lt;/p&gt;
+&lt;p&gt;In classical version control systems, a centralized model is used, assuming a single repository for storing files. Most version control functions are performed by a special server. The project participant (user) receives the version of files he needs before starting work through certain commands. After making changes, the user places the new version in the repository. At the same time, previous versions are not deleted from the central repository and you can return to them at any time. The server can not to save the full version of the modified files, but to perform a so—called delta compression - to save only changes between successive versions, which reduces the amount of data stored.&lt;/p&gt;
+&lt;p&gt;Version control systems support the ability to track and resolve conflicts that may arise when several people are working on a single file. You can merge (merge) changes made by different participants (automatically or manually), manually select the desired version, cancel the changes altogether or lock files for modification. Depending on the settings, the lock is not allows other users to get a working copy or prevents changing the working copy of the file by means of the OS file system, thus providing privileged access to only one user working with the file.&lt;/p&gt;
+&lt;p&gt;Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of a single file, keeping a common history of changes up to the point of branching versions and their own change histories of each branch. In addition, it is usually available information about which of the participants, when and what changes were made. Usually this kind of information is stored in the change log, access to which can be restricted. Unlike the classical ones, in distributed version control systems, a central repository is not mandatory.&lt;/p&gt;
+&lt;p&gt;Among the classic VCS, the most famous are CVS, Subversion, and among the distributed ones — Git, Bazaar, Mercurial. The principles of their work are similar, they differ mainly in the syntax of the commands used in the work.&lt;/p&gt;
+&lt;p&gt;##Git
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.&lt;/p&gt;
+&lt;p&gt;Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows. The system is designed as a set of programs specially designed for their use in scenarios. This makes it convenient to create specialized version control systems based on Git or user interfaces. For example, Cogito is just such an example of a wrapper to Git repositories, and StGit uses Git to manage a collection of fixes (patches).&lt;/p&gt;
+&lt;p&gt;Git supports rapid separation and merging of versions, includes tools for visualization and navigation through the non-linear development history. Like Darcs, BitKeeper, Mercurial, Bazaar and Monotone, Git provides each developer with a local copy of the entire development history, changes are copied from one repository to another.&lt;/p&gt;
+&lt;p&gt;Remote access to Git repositories is provided by a git daemon, SSH or HTTP server. The TCP git-daemon service is included in the Git distribution and is, along with SSH, the most common and reliable access method. The HTTP access method, despite a number of restrictions, is very popular in controlled networks, because it allows you to use existing network filter configurations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>my last week</title>
+      <link>https://example.com/post/lastweek/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lastweek/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;my last week went very well, every day I was engaged in learning how to cook pasta carbonara&lt;/p&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;p&gt;it needs the following ingredients&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3 cups uncooked pasta&lt;/li&gt;
+&lt;li&gt;6 bacon strips, diced&lt;/li&gt;
+&lt;li&gt;2 garlic cloves, minced&lt;/li&gt;
+&lt;li&gt;1-1/4 cups milk&lt;/li&gt;
+&lt;li&gt;1 package (8 ounces) cream cheese, cubed&lt;/li&gt;
+&lt;li&gt;1/2 cup butter, cubed&lt;/li&gt;
+&lt;li&gt;1/2 cup grated Parmesan cheese&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;overview-1&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;basically, you can cook the pasta yourself, so let&amp;rsquo;s go back to my last week.I was at home all week, except Tuesday, that day I went to physical education.
+the rest of the days I slept, ate, took a break from studying and people.
+thank you for your attention&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
