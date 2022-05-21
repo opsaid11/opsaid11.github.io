@@ -5,12 +5,39 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>my last week stage 4</title>
+      <link>https://example.com/post/lastweek-stage-4/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lastweek-stage-4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;i didn&amp;rsquo;t do anything, thanks you for your attention&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>reporting</title>
+      <link>https://example.com/post/git-post-stage-4/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git-post-stage-4/</guid>
+      <description>&lt;p&gt;##report
+reports include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;goal&lt;/li&gt;
+&lt;li&gt;task&lt;/li&gt;
+&lt;li&gt;work perfomance&lt;/li&gt;
+&lt;li&gt;output
+we make reports in markdown&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>git</title>
