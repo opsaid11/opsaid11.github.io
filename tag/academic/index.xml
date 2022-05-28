@@ -5,12 +5,33 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>my last week stage 5</title>
+      <link>https://example.com/post/lastweek-stage-5/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/lastweek-stage-5/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;i didn&amp;rsquo;t do anything, thanks you for your attention :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>scientific programming languages</title>
+      <link>https://example.com/post/git-post-stage-5/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git-post-stage-5/</guid>
+      <description>&lt;p&gt;##report&lt;/p&gt;
+&lt;p&gt;Scientific programming languages ​​are programming languages ​​that are used in science.&lt;br&gt;
+I did not find more information, thanks for your attention&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>my last week stage 4</title>
